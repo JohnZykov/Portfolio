@@ -1,0 +1,261 @@
+{
+  "playerVersion": "2.79.0",
+  "date": "2022-12-07T06:38:46.458Z",
+  "playerId": "kinescope-container-dcafc9c8-0e23-4b17-ad0b-845246087619",
+  "clientId": "cb7677b8-0b46-4181-8595-a0e13f1c114f",
+  "videoId": "1f4338fa-c69d-4b1a-9b60-adf7ed04a6c9",
+  "folderId": "798eb790-8544-4c3f-9ded-f1523a6d1129",
+  "projectId": "543791a0-5160-4657-8bfa-a6c723b525aa",
+  "workspaceId": "7da338d1-c0ee-4654-a55d-9af53280e7c5",
+  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+  "url": "https://kinescope.io/201534673?v=2.79.0&enableIframeApi&playerId=kinescope-container-dcafc9c8-0e23-4b17-ad0b-845246087619&size%5Bwidth%5D=100%25&size%5Bheight%5D=100%25",
+  "referrer": "https://my.sky.pro/",
+  "playerOptions": {
+    "playlist": [
+      {
+        "title": "9",
+        "subtitle": "",
+        "frameRate": {
+          "360": 25,
+          "480": 25,
+          "720": 25,
+          "1080": 25
+        },
+        "uid": "4606d36c-3dca-42ac-bcf2-65794ca0d1ed",
+        "id": "1f4338fa-c69d-4b1a-9b60-adf7ed04a6c9",
+        "meta": {
+          "folderId": "798eb790-8544-4c3f-9ded-f1523a6d1129",
+          "projectId": "543791a0-5160-4657-8bfa-a6c723b525aa",
+          "workspaceId": "7da338d1-c0ee-4654-a55d-9af53280e7c5",
+          "type": "vod"
+        },
+        "poster": {
+          "src": {
+            "src": "https://kinescopecdn.net/7da338d1-c0ee-4654-a55d-9af53280e7c5/posters/72627f2e-ba34-427f-846d-c0de9c75dbb9/poster_sm/bc1e4b58-4721-4906-9158-cb933bb5f28d.jpg",
+            "srcset": [
+              {
+                "type": "image/webp",
+                "src": "https://kinescopecdn.net/7da338d1-c0ee-4654-a55d-9af53280e7c5/posters/72627f2e-ba34-427f-846d-c0de9c75dbb9/poster_xs/bc1e4b58-4721-4906-9158-cb933bb5f28d.webp",
+                "media": "(max-width: 160px) and (max-height: 90px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://kinescopecdn.net/7da338d1-c0ee-4654-a55d-9af53280e7c5/posters/72627f2e-ba34-427f-846d-c0de9c75dbb9/poster_sm/bc1e4b58-4721-4906-9158-cb933bb5f28d.webp",
+                "media": "(max-width: 320px) and (max-height: 240px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://kinescopecdn.net/7da338d1-c0ee-4654-a55d-9af53280e7c5/posters/72627f2e-ba34-427f-846d-c0de9c75dbb9/poster_md/bc1e4b58-4721-4906-9158-cb933bb5f28d.webp",
+                "media": "(max-width: 640px) and (max-height: 400px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://kinescopecdn.net/7da338d1-c0ee-4654-a55d-9af53280e7c5/posters/72627f2e-ba34-427f-846d-c0de9c75dbb9/poster_lg/bc1e4b58-4721-4906-9158-cb933bb5f28d.webp"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://kinescopecdn.net/7da338d1-c0ee-4654-a55d-9af53280e7c5/posters/72627f2e-ba34-427f-846d-c0de9c75dbb9/poster_xs/bc1e4b58-4721-4906-9158-cb933bb5f28d.jpg",
+                "media": "(max-width: 160px) and (max-height: 90px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://kinescopecdn.net/7da338d1-c0ee-4654-a55d-9af53280e7c5/posters/72627f2e-ba34-427f-846d-c0de9c75dbb9/poster_sm/bc1e4b58-4721-4906-9158-cb933bb5f28d.jpg",
+                "media": "(max-width: 320px) and (max-height: 240px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://kinescopecdn.net/7da338d1-c0ee-4654-a55d-9af53280e7c5/posters/72627f2e-ba34-427f-846d-c0de9c75dbb9/poster_md/bc1e4b58-4721-4906-9158-cb933bb5f28d.jpg",
+                "media": "(max-width: 640px) and (max-height: 400px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://kinescopecdn.net/7da338d1-c0ee-4654-a55d-9af53280e7c5/posters/72627f2e-ba34-427f-846d-c0de9c75dbb9/poster_lg/bc1e4b58-4721-4906-9158-cb933bb5f28d.jpg"
+              }
+            ]
+          },
+          "crossOrigin": "anonymous"
+        },
+        "qualityLabels": {
+          "360": {
+            "label": "360p"
+          },
+          "480": {
+            "label": "480p"
+          },
+          "720": {
+            "label": "720p"
+          },
+          "1080": {
+            "label": "1080p",
+            "q": 1080
+          },
+          "list": [
+            360,
+            480,
+            720,
+            1080
+          ]
+        },
+        "sources": {
+          "hls": {
+            "segments": "fmp4",
+            "selector": {
+              "params": {
+                "audio": "lang",
+                "quality": "quality"
+              },
+              "qualityMap": {
+                "360": "360p",
+                "480": "480p",
+                "720": "720p",
+                "1080": "1080p"
+              }
+            },
+            "src": "https://kinescope.io/1f4338fa-c69d-4b1a-9b60-adf7ed04a6c9/master.m3u8?expires=1670481496"
+          },
+          "dash": "https://kinescope.io/1f4338fa-c69d-4b1a-9b60-adf7ed04a6c9/master.mpd"
+        },
+        "vtt": [],
+        "chapters": []
+      }
+    ],
+    "behaviour": {
+      "crossOrigin": "anonymous",
+      "seekable": true,
+      "playsInline": true,
+      "autoPause": true,
+      "autoIframeApi": true,
+      "fullscreenFallback": "video",
+      "preload": "none",
+      "enableIframeApi": true,
+      "waitPosterLoad": 2000,
+      "localStorage": {
+        "quality": "global",
+        "time": true,
+        "storage": "session"
+      },
+      "keyboard": true,
+      "playToggleable": true,
+      "fullscreenToggleable": true,
+      "playlist": {
+        "autoSwitch": false
+      },
+      "endscreen": "replay",
+      "rotateToFullscreen": false
+    },
+    "size": {
+      "width": "100%",
+      "height": "100%"
+    },
+    "ui": {
+      "transparent": true,
+      "playbackRates": [
+        0.25,
+        0.5,
+        0.75,
+        1,
+        1.25,
+        1.5,
+        1.75,
+        2
+      ],
+      "maxTitleLength": 140,
+      "mode": "default",
+      "controls": true,
+      "title": false,
+      "liveLabel": true,
+      "controlBar": true,
+      "mainPlayButton": true,
+      "progressBar": true,
+      "buttonsBar": true,
+      "prevButton": true,
+      "nextButton": true,
+      "playButton": true,
+      "liveButton": true,
+      "playbackRateButton": true,
+      "subtitlesSearch": true,
+      "audioTracksButton": true,
+      "playlistButton": true,
+      "autoSwitchButton": true,
+      "attachmentsButton": true,
+      "downloadsButton": true,
+      "chaptersButton": true,
+      "settingsButton": true,
+      "airplayButton": true,
+      "chromecastButton": false,
+      "pipButton": true,
+      "fullscreenButton": true,
+      "initial": {
+        "controls": true,
+        "spinner": true,
+        "title": false,
+        "controlBar": true,
+        "mainPlayButton": true,
+        "openChapters": false
+      },
+      "contextMenu": {
+        "hotkeys": true,
+        "debugLog": true,
+        "about": true,
+        "version": "hidden"
+      }
+    },
+    "theme": {
+      "branding": {},
+      "colors": {
+        "primary": "#6161FC"
+      }
+    },
+    "settings": {
+      "workspaceId": "7da338d1-c0ee-4654-a55d-9af53280e7c5",
+      "oldmetrics": {
+        "url": "https://metrics.kinescope.io/player",
+        "errors": {
+          "url": "https://player-errors.kinescope.io/v1/errors"
+        }
+      },
+      "metrics": {
+        "url": "https://player-metrics.kinescope.io/v1/batch",
+        "interval": 60000,
+        "timestamp": 1670395096
+      },
+      "driverSettings": {
+        "dash": {
+          "streaming": {
+            "abr": {
+              "additionalAbrRules": {
+                "insufficientBufferRule": true,
+                "switchHistoryRule": true,
+                "droppedFramesRule": true,
+                "abandonRequestsRule": false
+              }
+            }
+          }
+        },
+        "ws": {
+          "idleTimeout": 10000,
+          "reconnection": {
+            "maxRetries": 5
+          }
+        },
+        "webrtc": {
+          "rtc": {
+            "iceServers": [
+              {
+                "urls": [
+                  "turn:193.238.45.43:3478?transport=tcp"
+                ],
+                "username": "demo",
+                "credential": "demo"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "v": "2.79.0",
+    "enableIframeApi": "",
+    "playerId": "kinescope-container-dcafc9c8-0e23-4b17-ad0b-845246087619"
+  },
+  "errors": []
+}
